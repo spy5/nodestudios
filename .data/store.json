@@ -1,0 +1,354 @@
+{
+  "projects": [
+    {
+      "title": "Aurora OS",
+      "slug": "aurora-os",
+      "identity": "srikar",
+      "category": "uiux",
+      "description": "A desktop operating layer exploring ambient computing — where information ambiently reveals itself, and the interface recedes. I led the interaction model, the typographic system and the motion language across 40+ surfaces.",
+      "thumbnail": "/placeholder.svg?height=1000&width=1600&query=minimal%20desktop%20operating%20system%20UI%20dashboard%20dark%20editorial",
+      "tags": "Product,Systems,Motion",
+      "featured": true,
+      "id": "cced9c96dfe02e688c50d3266",
+      "createdAt": "2026-04-19T17:11:53.299Z"
+    },
+    {
+      "title": "Meridian Timepiece",
+      "slug": "meridian-timepiece",
+      "identity": "srikar",
+      "category": "3d",
+      "description": "A launch campaign for Meridian — a mechanical timepiece collection. Modeled in Cinema 4D, lit and rendered in Octane. Compositing in Fusion.",
+      "thumbnail": "/placeholder.svg?height=1000&width=1600&query=luxury%20mechanical%20watch%20macro%203d%20render%20cinematic%20lighting",
+      "tags": "3D,Render,Campaign",
+      "featured": true,
+      "id": "c2387daa96ad3ec7534953782",
+      "createdAt": "2026-04-19T17:11:53.299Z"
+    },
+    {
+      "title": "Ember Title Sequence",
+      "slug": "ember-title-sequence",
+      "identity": "srikar",
+      "category": "video",
+      "description": "Title sequence for a short film on memory and loss. Edited in Premiere, graded in DaVinci.",
+      "thumbnail": "/placeholder.svg?height=1000&width=1600&query=cinematic%20film%20title%20typography%20motion%20dark%20amber",
+      "tags": "Title Design,Editing,Grade",
+      "featured": true,
+      "id": "c51d329f7ebab71e207d86cd9",
+      "createdAt": "2026-04-19T17:11:53.299Z"
+    },
+    {
+      "title": "Rhythm — mobile",
+      "slug": "rhythm-mobile",
+      "identity": "srikar",
+      "category": "uiux",
+      "description": "Redesign of Rhythm's mobile client — a sustained focus on density, gesture and typography.",
+      "thumbnail": "/placeholder.svg?height=1000&width=1600&query=mobile%20app%20ui%20minimal%20music%20listening%20editorial",
+      "tags": "Mobile,Product",
+      "featured": false,
+      "id": "c4910bb7fb6f130f4d722d55b",
+      "createdAt": "2026-04-19T17:11:53.299Z"
+    },
+    {
+      "title": "Field VFX Study",
+      "slug": "field-vfx-study",
+      "identity": "srikar",
+      "category": "vfx",
+      "description": "A personal study on cloth simulation and light wrapping. Houdini, Nuke.",
+      "thumbnail": "/placeholder.svg?height=1000&width=1600&query=abstract%20cloth%20simulation%20houdini%20render%20black",
+      "tags": "Houdini,Nuke,Study",
+      "featured": false,
+      "id": "cb31d30b8da9177eb33d2c01e",
+      "createdAt": "2026-04-19T17:11:53.299Z"
+    },
+    {
+      "title": "Halo Commerce",
+      "slug": "halo-commerce",
+      "identity": "node",
+      "category": "uiux",
+      "description": "A headless storefront platform for mid-market brands. NODE led product, brand motion and the initial marketing site. Partnered with Halo's engineering team over nine months.",
+      "thumbnail": "/placeholder.svg?height=1000&width=1600&query=headless%20commerce%20dashboard%20dark%20industrial%20ui",
+      "tags": "Product,Brand,Motion",
+      "featured": true,
+      "id": "c646434cff0da0619ca04a589",
+      "createdAt": "2026-04-19T17:11:53.299Z"
+    },
+    {
+      "title": "Folio Brand System",
+      "slug": "folio-brand-system",
+      "identity": "node",
+      "category": "uiux",
+      "description": "A complete identity system for Folio — a private-office software suite. Wordmark, type system, motion grammar and 60-page guidelines.",
+      "thumbnail": "/placeholder.svg?height=1000&width=1600&query=brand%20identity%20wordmark%20monogram%20editorial%20black",
+      "tags": "Brand,Identity,Guidelines",
+      "featured": true,
+      "id": "c7b49598d58acd438e7c95725",
+      "createdAt": "2026-04-19T17:11:53.299Z"
+    },
+    {
+      "title": "Kiln Interactive Film",
+      "slug": "kiln-interactive-film",
+      "identity": "node",
+      "category": "video",
+      "description": "A six-minute interactive film for Kiln Residency — branching narrative, generative grade, WebGL composition.",
+      "thumbnail": "/placeholder.svg?height=1000&width=1600&query=interactive%20cinematic%20film%20dark%20amber%20grade",
+      "tags": "Film,Interactive,WebGL",
+      "featured": true,
+      "id": "c4a1e3973c31d6a45fd7e02ca",
+      "createdAt": "2026-04-19T17:11:53.299Z"
+    },
+    {
+      "title": "Atlas — 3D campaign",
+      "slug": "atlas-3d",
+      "identity": "node",
+      "category": "3d",
+      "description": "Key art and campaign CGI for Atlas Residency's autumn program. Houdini, Redshift, Nuke.",
+      "thumbnail": "/placeholder.svg?height=1000&width=1600&query=abstract%203d%20sculpture%20campaign%20key%20art%20dark",
+      "tags": "3D,Campaign,Render",
+      "featured": false,
+      "id": "c3d3e4be59bcf5a9a7a94ed2c",
+      "createdAt": "2026-04-19T17:11:53.299Z"
+    },
+    {
+      "title": "Ember VFX",
+      "slug": "ember-vfx",
+      "identity": "node",
+      "category": "vfx",
+      "description": "Compositing and clean-up for the Ember short film. 140 shots across four weeks.",
+      "thumbnail": "/placeholder.svg?height=1000&width=1600&query=vfx%20compositing%20film%20still%20clean%20plate",
+      "tags": "Nuke,Comp,Film",
+      "featured": false,
+      "id": "c096da2e9e1f2aac7e3c6ed5c",
+      "createdAt": "2026-04-19T17:11:53.299Z"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "c570a9e60c274800c1a790619",
+      "projectId": "cced9c96dfe02e688c50d3266",
+      "type": "image",
+      "url": "/placeholder.svg?height=1300&width=2000&query=desktop%20OS%20dashboard%20ambient%20data%20monochrome",
+      "file": null,
+      "caption": "Dashboard — ambient data state.",
+      "order": 0
+    },
+    {
+      "id": "c6550d6bc4f204187ef4be4a7",
+      "projectId": "cced9c96dfe02e688c50d3266",
+      "type": "image",
+      "url": "/placeholder.svg?height=1300&width=2000&query=typographic%20hierarchy%20exploration%20design%20system",
+      "file": null,
+      "caption": "Typographic hierarchy exploration.",
+      "order": 1
+    },
+    {
+      "id": "cf333927ae7f0762b97d032f4",
+      "projectId": "cced9c96dfe02e688c50d3266",
+      "type": "figma",
+      "file": null,
+      "url": "https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2Fsample",
+      "caption": "Interactive prototype.",
+      "order": 2
+    },
+    {
+      "id": "c7b23e3e7149986f37e6cfdb3",
+      "projectId": "cced9c96dfe02e688c50d3266",
+      "type": "video",
+      "file": null,
+      "url": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+      "caption": "Motion language reel.",
+      "order": 3
+    },
+    {
+      "id": "cbeb54f24300fdb96ec0e7964",
+      "projectId": "c2387daa96ad3ec7534953782",
+      "type": "image",
+      "url": "/placeholder.svg?height=1300&width=2000&query=mechanical%20watch%203d%20render%20hero%20shot%20octane",
+      "file": null,
+      "caption": "Hero render — Caliber 04.",
+      "order": 0
+    },
+    {
+      "id": "ce3951829369a35eb440e9cac",
+      "projectId": "c2387daa96ad3ec7534953782",
+      "type": "image",
+      "url": "/placeholder.svg?height=1300&width=2000&query=watch%20movement%20macro%20detail%203d%20render",
+      "file": null,
+      "caption": "Macro study of the movement.",
+      "order": 1
+    },
+    {
+      "id": "c8e008cdd9d8946efa638100e",
+      "projectId": "c2387daa96ad3ec7534953782",
+      "type": "video",
+      "file": null,
+      "url": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+      "caption": "30-second campaign cut.",
+      "order": 2
+    },
+    {
+      "id": "c38228ad9facae2d0f5980fd6",
+      "projectId": "c51d329f7ebab71e207d86cd9",
+      "type": "video",
+      "file": null,
+      "url": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+      "caption": "Full sequence — 01:42.",
+      "order": 0
+    },
+    {
+      "id": "cebb2c902f060e2cd9a5330bc",
+      "projectId": "c51d329f7ebab71e207d86cd9",
+      "type": "image",
+      "url": "/placeholder.svg?height=1300&width=2000&query=film%20title%20typography%20frame%20dark%20cinematic",
+      "file": null,
+      "caption": "Type-in-motion frame study.",
+      "order": 1
+    },
+    {
+      "id": "c3be6a9f6aa3a508b52a4991f",
+      "projectId": "c4910bb7fb6f130f4d722d55b",
+      "type": "image",
+      "url": "/placeholder.svg?height=1300&width=2000&query=mobile%20app%20screens%20minimal%20ui%20density",
+      "file": null,
+      "caption": "Home — density state.",
+      "order": 0
+    },
+    {
+      "id": "c00059cb2942ad89d8f1a102f",
+      "projectId": "cb31d30b8da9177eb33d2c01e",
+      "type": "image",
+      "url": "/placeholder.svg?height=1300&width=2000&query=cloth%20simulation%20abstract%20render%20frame%20184",
+      "file": null,
+      "caption": "Cloth sim — frame 184.",
+      "order": 0
+    },
+    {
+      "id": "c976f83e8f4d72d54bd9259f9",
+      "projectId": "c646434cff0da0619ca04a589",
+      "type": "image",
+      "url": "/placeholder.svg?height=1300&width=2000&query=commerce%20merchant%20dashboard%20dark%20orders%20view",
+      "file": null,
+      "caption": "Merchant dashboard — orders view.",
+      "order": 0
+    },
+    {
+      "id": "c9e6b10c60133a0e1fc54c57a",
+      "projectId": "c646434cff0da0619ca04a589",
+      "type": "image",
+      "url": "/placeholder.svg?height=1300&width=2000&query=ecommerce%20product%20page%20marketing%20site",
+      "file": null,
+      "caption": "Marketing site — product page.",
+      "order": 1
+    },
+    {
+      "id": "ce4bf4699abbc4dfcd5ccfc96",
+      "projectId": "c646434cff0da0619ca04a589",
+      "type": "video",
+      "file": null,
+      "url": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+      "caption": "Launch film — 45s.",
+      "order": 2
+    },
+    {
+      "id": "c9c6fba8468d53f0f3629a8ae",
+      "projectId": "c7b49598d58acd438e7c95725",
+      "type": "image",
+      "url": "/placeholder.svg?height=1300&width=2000&query=brand%20identity%20wordmark%20primary%20secondary%20locks",
+      "file": null,
+      "caption": "Wordmark — primary & secondary locks.",
+      "order": 0
+    },
+    {
+      "id": "c9976cd9dbb7bb277cc30e760",
+      "projectId": "c7b49598d58acd438e7c95725",
+      "type": "image",
+      "url": "/placeholder.svg?height=1300&width=2000&query=brand%20guidelines%20document%20spreads",
+      "file": null,
+      "caption": "Guidelines — 60 pages.",
+      "order": 1
+    },
+    {
+      "id": "c87b8664263fbeda85cb464f4",
+      "projectId": "c4a1e3973c31d6a45fd7e02ca",
+      "type": "video",
+      "file": null,
+      "url": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+      "caption": "Teaser — branch A.",
+      "order": 0
+    },
+    {
+      "id": "cc0d1ada04e20d0531f34d4c4",
+      "projectId": "c4a1e3973c31d6a45fd7e02ca",
+      "type": "image",
+      "url": "/placeholder.svg?height=1300&width=2000&query=cinematic%20film%20still%20interior%20scene%20dark%20amber",
+      "file": null,
+      "caption": "Grade study — interior scene.",
+      "order": 1
+    },
+    {
+      "id": "c864a77341a990fff7331a3cc",
+      "projectId": "c3d3e4be59bcf5a9a7a94ed2c",
+      "type": "image",
+      "url": "/placeholder.svg?height=1300&width=2000&query=3d%20abstract%20sculpture%20campaign%20plate%2002",
+      "file": null,
+      "caption": "Key art — plate 02.",
+      "order": 0
+    },
+    {
+      "id": "c6129139760083ea8ee39955d",
+      "projectId": "c096da2e9e1f2aac7e3c6ed5c",
+      "type": "image",
+      "url": "/placeholder.svg?height=1300&width=2000&query=vfx%20shot%20before%20after%20film%20compositing",
+      "file": null,
+      "caption": "Shot 084 — before / after.",
+      "order": 0
+    }
+  ],
+  "users": [
+    {
+      "id": "c4b53ab2ebf09fc79e59865ce",
+      "email": "admin@local",
+      "password": "$2b$10$q2FgCeTJ25plTf3mRqsm4ODv.wHyxUuwyGx6RqdOV5PSRIKn2Jmwm"
+    }
+  ],
+  "pages": [
+    {
+      "id": "cff5d233fb213e8f4b1cf2898",
+      "identity": "srikar",
+      "page": "home",
+      "content": "{\"eyebrow\":\"Good afternoon —\",\"title\":\"Srikar Prasad Y\",\"subtitle\":\"Designer · Motion · 3D\",\"intro\":\"I'm an independent designer working at the intersection of interface, motion and three-dimensional craft. I build considered, tactile products — from product design systems to cinematic sequences.\",\"featuredSlugs\":[\"aurora-os\",\"meridian-timepiece\",\"ember-title-sequence\"]}"
+    },
+    {
+      "id": "c22439b11db56921ea155d8da",
+      "identity": "node",
+      "page": "home",
+      "content": "{\"eyebrow\":\"— NODE Studio / Est. 2021\",\"title\":\"A studio for considered digital craft.\",\"subtitle\":\"Interfaces, brand systems, motion, 3D.\",\"intro\":\"NODE is a small, multidisciplinary studio. We partner with founders, artists and institutions to build enduring digital objects — from product interfaces to feature-length sequences.\",\"featuredSlugs\":[\"halo-commerce\",\"folio-brand-system\",\"kiln-interactive-film\"]}"
+    },
+    {
+      "id": "ca82a8a4fe8a725dde5b2bef4",
+      "identity": "srikar",
+      "page": "about",
+      "content": "{\"heading\":\"Working independently since 2019.\",\"bio\":\"I design and build digital products — with a bias toward motion, density and typographic precision. Before going independent, I worked on interface and motion for a handful of studios across Bangalore, Berlin and New York. I care about the seams — the details most people never see.\",\"services\":[{\"title\":\"Interface Design\",\"description\":\"Product design, design systems, prototyping.\"},{\"title\":\"Motion & Video\",\"description\":\"Brand films, title sequences, product motion.\"},{\"title\":\"3D & VFX\",\"description\":\"Cinema 4D, Houdini, Blender. Compositing in Nuke.\"}],\"clients\":[\"Linear\",\"Framer\",\"Arc\",\"Rhythm\",\"Klim\",\"Field\",\"Off-Air\",\"Studio Output\"],\"contactEmail\":\"hello@srikarprasad.com\",\"socials\":[{\"label\":\"Instagram\",\"handle\":\"@srikar.p\"},{\"label\":\"Are.na\",\"handle\":\"srikar-prasad\"},{\"label\":\"Read.cv\",\"handle\":\"srikar\"}]}"
+    },
+    {
+      "id": "c37af22fdb81c3443308e1aaa",
+      "identity": "node",
+      "page": "about",
+      "content": "{\"heading\":\"A studio by Srikar Prasad Y and collaborators.\",\"bio\":\"NODE is a small studio building considered digital objects — products, brand systems, motion and 3D. We work with a rotating cast of collaborators and typically take on four to six engagements a year.\",\"services\":[{\"title\":\"Product\",\"description\":\"Interfaces, design systems, engineering collaboration.\"},{\"title\":\"Brand\",\"description\":\"Identity systems, guidelines, brand motion.\"},{\"title\":\"Film\",\"description\":\"Commercials, brand films, title design, compositing.\"},{\"title\":\"Interactive\",\"description\":\"Installations, web experiences, generative systems.\"}],\"clients\":[\"Halo\",\"Folio\",\"Kiln Films\",\"Meridian\",\"Ember\",\"Atlas Residency\",\"Field Studio\"],\"contactEmail\":\"studio@node.works\",\"socials\":[{\"label\":\"Instagram\",\"handle\":\"@node.studio\"},{\"label\":\"Vimeo\",\"handle\":\"node-studio\"},{\"label\":\"Are.na\",\"handle\":\"node\"}]}"
+    }
+  ],
+  "messages": [],
+  "sessions": [
+    {
+      "id": "ce031026c5bdd14c3e1d9829a",
+      "userId": "c4b53ab2ebf09fc79e59865ce",
+      "createdAt": "2026-04-19T18:47:15.399Z",
+      "expiresAt": "2026-05-19T18:47:15.399Z"
+    },
+    {
+      "id": "cc5aeed16b05997bad1777d50",
+      "userId": "c4b53ab2ebf09fc79e59865ce",
+      "createdAt": "2026-04-19T18:48:36.093Z",
+      "expiresAt": "2026-05-19T18:48:36.093Z"
+    }
+  ]
+}

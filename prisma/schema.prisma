@@ -1,0 +1,61 @@
+// Reference Prisma schema — the actual runtime DB is SQLite managed by
+// better-sqlite3 in lib/db.ts. Both use the same shape so switching to
+// Prisma (`prisma db push`) is trivial.
+
+datasource db {
+  provider = "sqlite"
+  url      = "file:./dev.db"
+}
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+model Project {
+  id          String       @id @default(cuid())
+  title       String
+  slug        String       @unique
+  identity    String       // "srikar" | "node"
+  category    String       // "uiux" | "video" | "3d" | "vfx"
+  description String
+  thumbnail   String?
+  tags        String       @default("") // comma-separated
+  featured    Boolean      @default(false)
+  createdAt   DateTime     @default(now())
+  blocks      MediaBlock[]
+}
+
+model MediaBlock {
+  id        String  @id @default(cuid())
+  projectId String
+  type      String  // "image" | "video" | "figma" | "pdf"
+  file      String?
+  url       String?
+  caption   String?
+  order     Int     @default(0)
+  project   Project @relation(fields: [projectId], references: [id], onDelete: Cascade)
+}
+
+model User {
+  id       String @id @default(cuid())
+  email    String @unique
+  password String
+}
+
+model PageContent {
+  id       String @id @default(cuid())
+  identity String
+  page     String
+  content  String // JSON blob
+
+  @@unique([identity, page])
+}
+
+model ContactMessage {
+  id        String   @id @default(cuid())
+  name      String
+  email     String
+  message   String
+  identity  String   @default("srikar")
+  createdAt DateTime @default(now())
+}
