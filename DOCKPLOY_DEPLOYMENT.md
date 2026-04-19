@@ -30,8 +30,10 @@ git push origin main
 In Dockploy application settings:
 
 **Build Configuration:**
-- Dockerfile: `./Dockerfile`
-- Build context: `/`
+- **Dockerfile path:** `./Dockerfile` (important: specify this to avoid Nixpacks auto-detection)
+- **Build context:** `/` (root of repository)
+- **Build method:** Docker (not Nixpacks)
+- If prompted, disable Nixpacks auto-detection
 
 **Port Configuration:**
 - Container port: `3000`
@@ -88,6 +90,16 @@ docker exec <container-name> cat /app/.data/store.json > backup.json
 Or configure Dockploy's backup feature for the persistent volume.
 
 ## Troubleshooting
+
+### Nixpacks build fails with "mount src= ... not a directory" error
+This happens when Dockploy uses Nixpacks auto-detection instead of your custom Dockerfile. **Fix:**
+1. Stop the current deployment
+2. Go to application settings → Build configuration
+3. Set **Dockerfile path** to `./Dockerfile`
+4. Disable Nixpacks if there's a toggle
+5. Restart deployment
+
+The custom Dockerfile in the repository is optimized and will work without these cache mount issues.
 
 ### "Invalid request" on login
 - Ensure the persistent volume is mounted correctly
